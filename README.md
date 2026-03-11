@@ -45,6 +45,11 @@ _We highly recommend you take a look at the [**Hoppscotch Documentation**](https
 
 [![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)](https://hoppscotch.io/discord) [![Chat on Telegram](https://img.shields.io/badge/chat-Telegram-2CA5E0?logo=telegram)](https://hoppscotch.io/telegram) [![Discuss on GitHub](https://img.shields.io/badge/discussions-GitHub-333333?logo=github)](https://github.com/hoppscotch/hoppscotch/discussions)
 
+100% open-source plnohodnotnú bezplatnú náhradu Postmana, ktorá beží vo vašom prehliadači bez akejkoľvek inštalácie.
+Volá sa Hoppscotch.
+Žiadne nadviazanosti na pracovnej ploche. Žiadne 14 dolárov/mesiac na používateľa. Žiadny zber dát.
+HTTP, GraphQL, WebSocket, testovanie v reálnom čase, generovanie úryvkov kódu a migrácia jedným kliknutím od Postman. Desktop a CLI zahrnuté.
+100% opensource. Licencia MIT.
 ### **Features**
 
 ❤️ **Lightweight:** Crafted with minimalistic UI design.
